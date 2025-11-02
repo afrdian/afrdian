@@ -1,18 +1,26 @@
-<!-- 🌸 ANIME / CYBER / CTF / BLOCKCHAIN GITHUB PROFILE -->
+<!-- 🌸 ANIME / CYBER / CTF / BLOCKCHAIN GITHUB PROFILE vMAX -->
 
 <!-- TOP ANIME HERO HEADER -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/34/11/06/341106a40f80973648343bf90a6cde9e.gif" width="100%" style="border-radius:12px;" alt="anime banner"/>
 </p>
 
+<!-- MAIN TITLE -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=900&lines=Athalariiq+Fildzahhanan+Ardian;CTF+Player+%7C+Cyber+Security+%7C+CTF+Enjoyer;Reverse+Engineering+%7C+Cryptography;Learning+Blockchain+(Solidity+Smart+Contract)" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=900&lines=Athalariiq+Fildzahhanan+Ardian;CTF+Player+%7C+Cyber+Security+%7C+Anime+Enjoyer;Reverse+Engineering+%7C+Cryptography;Learning+Blockchain+(Solidity+Smart+Contract)" alt="Typing SVG">
 </h1>
 
+<!-- SUB STATUS BAR -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2500&pause=900&color=FFE4FF&center=true&vCenter=true&width=700&lines=Status:+Online+%7C+Mode:+CTF+%7C+Theme:+Anime+Cyber;Now+Playing:+Lofi+OST+%E2%80%94+Coding+Session;Target:+GEMASTIK+%7C+Mission:+Win+or+Debug." />
+</p>
+
+<!-- PROFILE WIDGET -->
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=afrdian&data=followers,repositories,stars,commits&theme=dracula" alt="GitHub WidgetBox" />
 </p>
 
+<!-- DIVIDER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/line-neon.gif" width="100%" />
 </p>
@@ -34,21 +42,26 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2400&pause=900&color=F472B6&center=true&vCenter=true&width=600&lines=Building+secure+contracts...;...and+breaking+insecure+ones.;Anime+%2B+CTF+%2B+Blockchain+%3D+Perfect.">
-</p>
-
-
-<!-- ANIME SECTION -->
-<h2 align="center">🌸✨ Miscellanous ✨🌸</h2>
-
-<p align="center">
-  <img src="https://media.tenor.com/AslY3G_tJrMAAAAC/anime-typing.gif" width="280" alt="anime typing" />
-  <img src="https://giffiles.alphacoders.com/137/13705.gif" width="280" alt="main banner gif" />
-  <img src="https://media.tenor.com/zcT0SpY2Z6UAAAAd/anime-hacker.gif" width="280" alt="anime hacker" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2400&pause=900&color=F472B6&center=true&vCenter=true&width=600&lines=Building+secure+contracts...;...and+breaking+insecure+ones.;Anime+%2B+CTF+%2B+Blockchain+%3D+Perfect.;return+%22GEMASTIK_QUALIFIED%22%3B">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2300&pause=1100&color=FF9EAA&center=true&vCenter=true&width=700&lines=⌈+CTF+by+day,+anime+by+night+⌋;echo+'Watching+When+yh+Lolos+GEMASTIK...';sudo+apt+install+inspiration;printf('Tahun+Depan+Lolos+GEMASTIK+PLS+%3C3');while(true){+LOLOS+GEMASTIK+};+write+exploits;+repeat();}">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/line-neon.gif" width="95%" />
+</p>
+
+---
+
+<!-- MISC / ANIME CORE -->
+<h2 align="center">🌸✨ Anime Core Zone ✨🌸</h2>
+
+<p align="center">
+  <img src="https://media.tenor.com/AslY3G_tJrMAAAAC/anime-typing.gif" width="270" alt="anime typing" />
+  <img src="https://giffiles.alphacoders.com/137/13705.gif" width="270" alt="main banner gif" />
+  <img src="https://media.tenor.com/zcT0SpY2Z6UAAAAd/anime-hacker.gif" width="270" alt="anime hacker" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2300&pause=1100&color=FF9EAA&center=true&vCenter=true&width=760&lines=⌈+CTF+by+day,+anime+by+night+⌋;echo+'Semoga+LOLOS+GEMASTIK+2026+AMIN...';sudo+apt+install+inspiration;printf('Tahun+Depan+Lolos+GEMASTIK+PLS+%3C3');while(true){+write+exploits;+watch+anime;+repeat();};">
 </p>
 
 <p align="center">
@@ -62,9 +75,10 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/line-neon.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/line-neon.gif" width="95%" />
 </p>
 
+---
 
 <!-- TECH STACK -->
 <h2 align="center">🛠️ Tech & Tools</h2>
@@ -79,9 +93,13 @@
   <img src="https://img.shields.io/badge/Linux-WSL%20%7C%20Kali%20%7C%20Termux-3b82f6?style=for-the-badge&logo=linux&logoColor=fff" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/line-neon.gif" width="90%" />
+</p>
 
+---
 
-<!-- BLOCKCHAIN SECTION -->
+<!-- BLOCKCHAIN -->
 <h2 align="center">🔗 Blockchain / Smart Contract Journey</h2>
 
 <p align="center">
@@ -91,7 +109,23 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=FDE68A&center=true&vCenter=true&width=600&lines=web2+security+is+good...;web3+security+is+public.;audit+before+deploy.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=FDE68A&center=true&vCenter=true&width=600&lines=web2+security+is+good...;web3+security+is+public.;audit+before+deploy.;forge+test+--rpc-url+anvil.">
+</p>
+
+<details>
+  <summary><b>📂 Open CTF / Web3 Dev Logs</b></summary>
+  <br/>
+  <ul>
+    <li>✅ Reentrancy lab (basic) done</li>
+    <li>✅ delegatecall vuln notes</li>
+    <li>🟣 building on-chain CTF chall</li>
+    <li>🟠 target: automatic solver in python/web3</li>
+    <li>🟢 future: L2/security dashboard</li>
+  </ul>
+</details>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/line-neon.gif" width="90%" />
 </p>
 
 ---
@@ -101,6 +135,14 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrdian&theme=material-palenight&area=true&area_color=ff80bf&line=ff9eaa&point=f8fafc&hide_border=true&radius=18&custom_title=⌈+Athalariiq+CTF+%2F+Solidity+Training+Log+⌋" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2400&pause=1100&color=FFE4E6&center=true&vCenter=true&width=600&lines=Commits:+Streak+maintained.;Mode:+Study+%2F+CTF+%2F+Build.;Next:+Deploy+smart+contract+challenge.;Note:+Productivity+buff+active.">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/line-neon.gif" width="92%" />
 </p>
 
 ---
@@ -115,6 +157,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrdian&layout=compact&theme=tokyonight&hide_border=true&title_color=ff9eaa" height="140" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/line-neon.gif" width="92%" />
 </p>
 
 ---
@@ -156,7 +202,7 @@
 
 <!-- TERMINAL OUTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=900&color=FFB6C1&center=true&vCenter=true&width=650&lines=ariq%40ctf:~%23+nc+ctf.ub.ac.id+31337;ariq%40ctf:~%23+python+solve.py;ariq%40ctf:~%23+forge+create+Vault.sol;ariq%40ctf:~%23+git+push+origin+main">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=900&color=FFB6C1&center=true&vCenter=true&width=650&lines=ariq%40ctf:~%23+nc+ctf.ub.ac.id+31337;ariq%40ctf:~%23+python+solve.py;ariq%40ctf:~%23+forge+create+Vault.sol;ariq%40ctf:~%23+git+push+origin+main" />
 </p>
 
 <p align="center">
