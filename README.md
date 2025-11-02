@@ -40,24 +40,32 @@
 ---
 
 <!-- ANIME SECTION -->
-<h2 align="center">🩷 Anime Vibes</h2>
+!-- ANIME REALM -->
+<h2 align="center">🌸✨ Anime Realm: Where Code Meets Chaos ✨🌸</h2>
 
 <p align="center">
-  <!-- your custom gif -->
-  <img src="https://giffiles.alphacoders.com/137/13705.gif" width="320" alt="anime gif" />
-  <!-- extra anime hacker gifs -->
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/anime-wave.gif" width="240" alt="anime wave" />
-  <img src="https://media.tenor.com/1L_7Qxv1JicAAAAC/anime-hacking.gif" width="320" alt="anime hacking" />
+  <img src="https://media.tenor.com/AslY3G_tJrMAAAAC/anime-typing.gif" width="280" alt="anime typing" />
+  <img src="https://giffiles.alphacoders.com/137/13705.gif" width="360" alt="main banner gif" />
+  <img src="https://media.tenor.com/zcT0SpY2Z6UAAAAd/anime-hacker.gif" width="280" alt="anime hacker" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2300&pause=1100&color=FF9EAA&center=true&vCenter=true&width=520&lines=Yes+I+code+with+anime+open.;Yes+I+solve+CTF+at+night.;Yes+I'm+learning+Solidity.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2300&pause=1100&color=FF9EAA&center=true&vCenter=true&width=700&lines=⌈+CTF+by+day,+anime+by+night+⌋;echo+'Watching+Attack+on+Titan...';sudo+apt+install+inspiration;printf('Hacking+and+heartbeats+in+sync+%3C3');while(true){+watch+anime;+write+exploits;+repeat();}">
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/ObKlh4eXAGIAAAAC/anime-glitch.gif" width="250" alt="glitch" />
+  <img src="https://media.tenor.com/7OeF6sMZtF8AAAAd/futuristic-hud.gif" width="250" alt="hud" />
+  <img src="https://media.tenor.com/h6v2oSsrU5gAAAAC/hacker-anonymous.gif" width="250" alt="hacker" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2600&pause=1000&color=FBCFE8&center=true&vCenter=true&width=700&lines=//+Loading+CTF+framework...;//+Compiling+anime+dreams...;//+Deploying+Solidity+contracts...;//+Status:+All+systems+are+kawaii.">
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/line-neon.gif" width="100%" />
 </p>
-
 ---
 
 <!-- TECH STACK -->
