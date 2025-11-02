@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/ObKlh4eXAGIAAAAC/anime-glitch.gif" width="250" alt="glitch" />
+  <img src="https://i.pinimg.com/originals/7a/e3/46/7ae34630c1a49d386216ede549c93e2c.gif" width="250" alt="glitch" />
   <img src="https://media.tenor.com/7OeF6sMZtF8AAAAd/futuristic-hud.gif" width="250" alt="hud" />
   <img src="https://media.tenor.com/h6v2oSsrU5gAAAAC/hacker-anonymous.gif" width="250" alt="hacker" />
 </p>
