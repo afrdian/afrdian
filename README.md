@@ -45,7 +45,7 @@
 
 <p align="center">
   <img src="https://media.tenor.com/AslY3G_tJrMAAAAC/anime-typing.gif" width="280" alt="anime typing" />
-  <img src="https://giffiles.alphacoders.com/137/13705.gif" width="360" alt="main banner gif" />
+  <img src="https://giffiles.alphacoders.com/137/13705.gif" width="280" alt="main banner gif" />
   <img src="https://media.tenor.com/zcT0SpY2Z6UAAAAd/anime-hacker.gif" width="280" alt="anime hacker" />
 </p>
 
