@@ -2,9 +2,9 @@
 
 <!-- TOP ANIME HERO HEADER -->
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/137/13705.gif" width="100%" style="border-radius:12px;" alt="anime banner"/>
+  <img src="https://i.pinimg.com/originals/34/11/06/341106a40f80973648343bf90a6cde9e.gif" width="100%" style="border-radius:12px;" alt="anime banner"/>
 </p>
-
+https://i.pinimg.com/originals/34/11/06/341106a40f80973648343bf90a6cde9e.gif
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=900&lines=Athalariiq+Fildzahhanan+Ardian;CTF+Player+%7C+Cyber+Security+%7C+CTF+Enjoyer;Reverse+Engineering+%7C+Cryptography;Learning+Blockchain+(Solidity+Smart+Contract)" alt="Typing SVG">
 </h1>
@@ -56,7 +56,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/7a/e3/46/7ae34630c1a49d386216ede549c93e2c.gif" width="250" alt="glitch" />
   <img src="https://i.pinimg.com/originals/7b/f9/44/7bf944bd45cc770be94c7463cb5d6ddb.gif" width="250" alt="hud" />
-  <img src="https://media.tenor.com/h6v2oSsrU5gAAAAC/hacker-anonymous.gif" width="250" alt="hacker" />
+  <img src="https://giffiles.alphacoders.com/137/13705.gif" width="250" alt="hacker" />
 </p>
 
 <p align="center">
