@@ -70,7 +70,7 @@
 <h2 align="center">🛠️ Tech & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,java,solidity,linux,html,css,github,git,bash,vscode,docker,sqlite&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,java,solidity,linux,html,css,github,git,bash,vscode,docker&perline=9" />
 </p>
 
 <p align="center">
