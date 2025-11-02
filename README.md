@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2300&pause=1100&color=FF9EAA&center=true&vCenter=true&width=760&lines=⌈+CTF+by+day,+anime+by+night+⌋;echo+'Semoga+LOLOS+GEMASTIK+2026+AMIN...';sudo+apt+install+inspiration;printf('Tahun+Depan+Lolos+GEMASTIK+PLS+%3C3');while(true){+write+exploits;+watch+anime;+repeat();};">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2300&pause=1100&color=FF9EAA&center=true&vCenter=true&width=760&lines=⌈+CTF+by+day,+anime+by+night+⌋;echo+'Semoga+LOLOS+GEMASTIK+2026+AMIN...';sudo+apt+install+inspiration;printf('Tahun+Depan+Lolos+GEMASTIK+PLS+%3C3');while(true){+write+exploits;+watch+when+ya+Lolos+GEMASTIK;+repeat();};">
 </p>
 
 <p align="center">
