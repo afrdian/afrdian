@@ -37,11 +37,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2400&pause=900&color=F472B6&center=true&vCenter=true&width=600&lines=Building+secure+contracts...;...and+breaking+insecure+ones.;Anime+%2B+CTF+%2B+Blockchain+%3D+Perfect.">
 </p>
 
----
 
 <!-- ANIME SECTION -->
-!-- ANIME REALM -->
-<h2 align="center">🌸✨ Anime Realm: Where Code Meets Chaos ✨🌸</h2>
+<h2 align="center">🌸✨ Miscellanous ✨🌸</h2>
 
 <p align="center">
   <img src="https://media.tenor.com/AslY3G_tJrMAAAAC/anime-typing.gif" width="280" alt="anime typing" />
