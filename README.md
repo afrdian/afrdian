@@ -98,11 +98,11 @@
 
 ---
 
-<!-- ACTIVITY GRAPH -->
+<!-- CONTRIBUTION FLOW -->
 <h2 align="center">📈 Contribution Flow</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrdian&theme=tokyo-night&area=true&hide_border=true&radius=12&custom_title=Athalariiq's%20Contribution%20Graph%20%F0%9F%8C%88" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrdian&theme=tokyo-night&area=true&area_color=ff9eaa&hide_border=true&radius=12&custom_title=Ariq's%20Contribution%20Sakura%20Wave%20🌸" />
 </p>
 
 ---
