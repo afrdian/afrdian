@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2300&pause=1100&color=FF9EAA&center=true&vCenter=true&width=700&lines=⌈+CTF+by+day,+anime+by+night+⌋;echo+'Watching+When+yh+Lolos+GEMASTIK...';sudo+apt+install+inspiration;printf('Tahun+Depan+Lolos+GEMASTIK+PLS+%3C3');while(true){+LOLOS+GEMASTIK;+write+exploits;+repeat();}">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2300&pause=1100&color=FF9EAA&center=true&vCenter=true&width=700&lines=⌈+CTF+by+day,+anime+by+night+⌋;echo+'Watching+When+yh+Lolos+GEMASTIK...';sudo+apt+install+inspiration;printf('Tahun+Depan+Lolos+GEMASTIK+PLS+%3C3');while(true){+LOLOS+GEMASTIK+};+write+exploits;+repeat();}">
 </p>
 
 <p align="center">
