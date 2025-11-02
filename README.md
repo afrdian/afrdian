@@ -38,7 +38,7 @@
 <h2 align="center">✨ Anime Vibes Mode</h2>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2c/c7/71/2cc771822992b5a9b82d49f683e4c2a8.gif" width="350" alt="anime coder" />
+  <img src="https://giffiles.alphacoders.com/137/13705.gif" width="350" alt="anime coder" />
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/anime-wave.gif" width="280" alt="anime wave" />
   <img src="https://media.tenor.com/68e_soeeHxUAAAAC/anime-hacker.gif" width="350" alt="anime hacker" />
 </p>
