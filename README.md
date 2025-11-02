@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/badge/Linux-WSL%20%7C%20Kali%20%7C%20Termux-3b82f6?style=for-the-badge&logo=linux&logoColor=fff" />
 </p>
 
----
+
 
 <!-- BLOCKCHAIN SECTION -->
 <h2 align="center">🔗 Blockchain / Smart Contract Journey</h2>
