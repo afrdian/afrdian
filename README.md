@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=900&lines=Athalariiq+Fildzahhanan+Ardian;CTF+Player+%7C+Cyber+Security+%7C+Anime+Enjoyer;Reverse+Engineering+%7C+Cryptography;Learning+Blockchain+(Solidity+Smart+Contract)" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=900&lines=Athalariiq+Fildzahhanan+Ardian;CTF+Player+%7C+Cyber+Security+%7C+CTF+Enjoyer;Reverse+Engineering+%7C+Cryptography;Learning+Blockchain+(Solidity+Smart+Contract)" alt="Typing SVG">
 </h1>
 
 <p align="center">
