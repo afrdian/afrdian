@@ -99,10 +99,10 @@
 ---
 
 <!-- CONTRIBUTION FLOW -->
-<h2 align="center">📈 Contribution Flow</h2>
+<h2 align="center">🌸 Ariq System Uplink</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrdian&theme=tokyo-night&area=true&area_color=ff9eaa&hide_border=true&radius=12&custom_title=Ariq's%20Contribution%20Sakura%20Wave%20🌸" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrdian&theme=material-palenight&area=true&area_color=ff80bf&line=ff9eaa&point=f8fafc&hide_border=true&radius=18&custom_title=⌈+Athalariiq+CTF+%2F+Solidity+Training+Log+⌋" />
 </p>
 
 ---
