@@ -64,7 +64,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/line-neon.gif" width="100%" />
 </p>
----
+
 
 <!-- TECH STACK -->
 <h2 align="center">🛠️ Tech & Tools</h2>
