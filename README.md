@@ -12,7 +12,7 @@
 
 <!-- SUB STATUS BAR -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2500&pause=900&color=FFE4FF&center=true&vCenter=true&width=700&lines=Status:+Online+%7C+Mode:+CTF+%7C+Theme:+Anime+Cyber;Now+Playing:+Lofi+OST+%E2%80%94+Coding+Session;Target:+GEMASTIK+%7C+Mission:+Win+or+Debug." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2500&pause=900&color=FFE4FF&center=true&vCenter=true&width=700&lines=Status:+Online+%7C+Mode:+CTF+%7C+Theme:+Cyber;Now+Playing:+Lofi+OST+%E2%80%94+Coding+Session;Target:+GEMASTIK+%7C+Mission:+Win+or+Debug." />
 </p>
 
 <!-- PROFILE WIDGET -->
