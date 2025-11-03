@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2400&pause=900&color=F472B6&center=true&vCenter=true&width=600&lines=Building+secure+contracts...;...and+breaking+insecure+ones.;Anime+%2B+CTF+%2B+Blockchain+%3D+Perfect.;return+%22GEMASTIK_QUALIFIED%22%3B">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2400&pause=900&color=F472B6&center=true&vCenter=true&width=600&lines=Building+secure+contracts...;...and+breaking+insecure+ones.;CTF+%2B+AI+%3D+Perfect.;return+%22GEMASTIK_QUALIFIED%22%3B">
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2600&pause=1000&color=FBCFE8&center=true&vCenter=true&width=700&lines=//+Loading+CTF+framework...;//+Compiling+anime+dreams...;//+Deploying+Solidity+contracts...;//+Status:+All+systems+are+kawaii.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2600&pause=1000&color=FBCFE8&center=true&vCenter=true&width=700&lines=//+Loading+CTF+framework...;//+Compiling+CTF+Tools...;//+Deploying+Solidity+contracts...;//+Status:+All+systems+are+safe.">
 </p>
 
 <p align="center">
@@ -120,7 +120,6 @@
     <li>✅ delegatecall vuln notes</li>
     <li>🟣 building on-chain CTF chall</li>
     <li>🟠 target: automatic solver in python/web3</li>
-    <li>🟢 future: L2/security dashboard</li>
   </ul>
 </details>
 
@@ -131,7 +130,7 @@
 ---
 
 <!-- CONTRIBUTION FLOW -->
-<h2 align="center">🌸 Ariq System Uplink</h2>
+<h2 align="center">🌸 Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrdian&theme=material-palenight&area=true&area_color=ff80bf&line=ff9eaa&point=f8fafc&hide_border=true&radius=18&custom_title=⌈+Athalariiq+CTF+%2F+Solidity+Training+Log+⌋" />
