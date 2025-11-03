@@ -133,7 +133,7 @@
 <h2 align="center">🌸 Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrdian&theme=material-palenight&area=true&area_color=ff80bf&line=ff9eaa&point=f8fafc&hide_border=true&radius=18&custom_title=⌈+Athalariiq+CTF+%2F+Solidity+Training+Log+⌋" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrdian&theme=material-palenight&area=true&area_color=ff80bf&line=ff9eaa&point=f8fafc&hide_border=true&radius=18&custom_title=⌈+My+Activity+%2F+⌋" />
 </p>
 
 <p align="center">
