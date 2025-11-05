@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- PIXEL ART HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=🎮%20ATHALARIIQ'S%20CYBER%20REALM%20🎮&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=CTF%20Warrior%20|%20Blockchain%20Hacker%20|%20Anime%20Enthusiast&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=🎮%20Ariq Ardian'S%20CYBER%20REALM%20🎮&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=CTF%20Warrior%20|%20Blockchain%20Hacker%20|%20CTF%20Enthusiast&descSize=18&descAlignY=55" width="100%"/>
 
 </div>
 
