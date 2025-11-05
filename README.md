@@ -3,19 +3,6 @@
 <!-- PIXEL ART HERO BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Ariq%20Ardian's%20CYBER%20REALM&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=CTF%20Warrior%20|%20Blockchain%20|%20CTF%20Enthusiast&descSize=18&descAlignY=55" width="100%"/>
 
-
-</div>
-<!-- PIXEL TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=800&height=60&lines=%E2%96%B6+LOADING+PROFILE...;%E2%96%B6+SYSTEM+STATUS%3A+ONLINE;%E2%96%B6+MODE%3A+ATTACK+%7C+DEFENSE+READY;%E2%96%B6+TARGET%3A+GEMASTIK+2026" alt="Typing Animation"/>
-</p>
-<div align="center">
-<!-- PROFILE BADGE -->
-<img src="https://github-widgetbox.vercel.app/api/profile?username=afrdian&data=followers,repositories,stars,commits&theme=nautilus" alt="Profile Widget"/>
-</div>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 </div>
 
 <!-- PIXEL TYPING ANIMATION -->
