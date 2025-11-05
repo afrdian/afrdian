@@ -455,8 +455,7 @@ while True:
 
 <br>
 
-**🎮 Made with 💖 by Athalariiq**  
-**⭐ Star this profile if you like it!**
+**🎮 Made with Me**  
 
 <br>
 
