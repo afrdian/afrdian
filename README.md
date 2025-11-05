@@ -1,322 +1,465 @@
-# 🌸 ATHALARIIQ'S CYBER REALM 🌸
-
 <div align="center">
 
-<!-- ANIMATED HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Welcome%20to%20My%20Domain&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
-
-<!-- GLITCH TEXT TITLE -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=45&duration=2000&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=ATHALARIIQ+FILDZAHHANAN;%E2%9A%A1+CTF+WARRIOR+%7C+BLOCKCHAIN+HACKER+%E2%9A%A1" alt="Title"/>
-
-<!-- ANIMATED STATUS BAR -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+Status%3A+ONLINE+%E2%9C%93;%5B%E2%9A%A1%5D+Mode%3A+ATTACK+%7C+Defense%3A+ACTIVE;%5B%F0%9F%8E%AF%5D+Target%3A+GEMASTIK+2026+%7C+Mission%3A+DOMINATE;%5B%F0%9F%94%A5%5D+Now+Playing%3A+Cyberpunk+Synthwave+OST" />
-
-<!-- PROFILE STATS WIDGET -->
-<img src="https://github-widgetbox.vercel.app/api/profile?username=afrdian&data=followers,repositories,stars,commits&theme=radical" alt="Profile Widget" />
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- PIXEL ART HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=🎮%20ATHALARIIQ'S%20CYBER%20REALM%20🎮&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=CTF%20Warrior%20|%20Blockchain%20Hacker%20|%20Anime%20Enthusiast&descSize=18&descAlignY=55" width="100%"/>
 
 </div>
 
----
-
-## 🎭 ABOUT.EXE
+<!-- PIXEL TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=800&height=60&lines=%E2%96%B6+LOADING+PROFILE...;%E2%96%B6+SYSTEM+STATUS%3A+ONLINE;%E2%96%B6+MODE%3A+ATTACK+%7C+DEFENSE+READY;%E2%96%B6+TARGET%3A+GEMASTIK+2026" alt="Typing Animation"/>
+</p>
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<!-- PROFILE BADGE -->
+<img src="https://github-widgetbox.vercel.app/api/profile?username=afrdian&data=followers,repositories,stars,commits&theme=nautilus" alt="Profile Widget"/>
 
-### 👤 PROFILE_DATA
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
+---
+
+<div align="center">
+
+## 🎯 [ ABOUT_ME.EXE ]
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 👾 **PLAYER STATS**
 
 ```python
-class Hacker:
+class CyberWarrior:
     def __init__(self):
-        self.name = "Athalariiq (Ariq)"
-        self.role = "CTF Player & Web3 Security"
+        self.name = "Athalariiq Fildzahhanan"
+        self.alias = "Ariq"
+        self.role = "CTF Player & Web3 Hacker"
         self.location = "Malang, Indonesia 🇮🇩"
         self.education = "Computer Science"
-        self.passion = ["CTF", "Blockchain", "Anime"]
+        self.level = 99
         
-    def current_focus(self):
+    def get_skills(self):
         return {
-            "learning": ["Solidity", "Smart Contracts"],
-            "breaking": ["Web3 CTF", "DeFi Protocols"],
-            "building": ["CTF Challenges", "Exploits"]
+            "CTF": ["Crypto", "RE", "Pwn"],
+            "Blockchain": ["Solidity", "Security"],
+            "Languages": ["Python", "PHP", "JS"]
         }
+    
+    def mission(self):
+        return "GEMASTIK 2026 Champion!"
+```
+
+<br>
+
+### 🎮 **CURRENT QUEST**
+
+```bash
+├── 🔐 Studying: Smart Contract Security
+├── 🎯 Target: GEMASTIK 2026 Qualification
+├── 🛡️ Focus: Web3 CTF Challenges
+└── ⚡ Status: Grinding Hard!
 ```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<img src="https://media.tenor.com/AslY3G_tJrMAAAAC/anime-typing.gif" width="100%" alt="Coding GIF"/>
+<br>
 
-### 🎯 MISSION_LOG
+<p align="center">
+  <img src="https://media.tenor.com/AslY3G_tJrMAAAAC/anime-typing.gif" width="90%" alt="Coding Animation"/>
+</p>
 
-```javascript
-const mission = {
-  primary: "Qualify for GEMASTIK 2026",
-  skills: ["Reverse Engineering", "Cryptography"],
-  studying: "Smart Contract Security",
-  motto: "Break it, Build it, Secure it"
-};
+<br>
 
-console.log(`🚀 Loading... ${mission.primary}`);
+### 💭 **PHILOSOPHY**
+
+<p align="center">
+  <i>"Break it. Build it. Secure it."</i>
+</p>
+
+<br>
+
+### 📊 **SKILL LEVELS**
+
+```yaml
+Reverse Engineering:  ████████████░░░░░ 75%
+Cryptography:         ███████████░░░░░░ 70%
+Smart Contracts:      ██████████░░░░░░░ 60%
+Python:               ████████████████░ 95%
+Solidity:             ████████████░░░░░ 75%
 ```
 
 </td>
 </tr>
 </table>
 
-<!-- ANIMATED TECH SHOWCASE -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=F72585&center=true&vCenter=true&width=900&lines=%E2%9A%94%EF%B8%8F+Mastering+Reverse+Engineering...;%F0%9F%94%90+Cracking+Cryptographic+Puzzles...;%F0%9F%94%97+Auditing+Smart+Contracts...;%F0%9F%92%BB+Building+Secure+DApps...;%E2%9C%A8+CTF+%2B+Blockchain+%3D+Perfect+Combo!" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixel+Emulator&size=16&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=40&lines=%E2%9A%94%EF%B8%8F+Mastering+Reverse+Engineering+and+Cryptography...;%F0%9F%94%97+Building+%26+Breaking+Smart+Contracts...;%F0%9F%9A%80+CTF+%2B+Blockchain+%2B+Anime+%3D+Perfect+Life!;%E2%9C%A8+Every+Bug+is+a+Feature+Waiting+to+be+Exploited!" alt="Skills Animation"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="95%">
+</p>
 
 ---
 
-## ⚡ TECH ARSENAL
-
 <div align="center">
 
-### 🔧 WEAPONS & TOOLS
+## 🛠️ [ TECH_ARSENAL.SYS ]
 
-<img src="https://skillicons.dev/icons?i=python,php,solidity,javascript,java,linux,bash,html,css,docker,git,github,vscode&perline=13&theme=dark" />
+</div>
 
-### 🎯 SPECIALIZATIONS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,solidity,javascript,java,linux,bash,html,css,docker,git,github,vscode&perline=13&theme=dark" alt="Tech Stack"/>
+</p>
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/CTF-Capture_The_Flag-ec4899?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/🏴‍☠️_CTF-Capture_The_Flag-ec4899?style=for-the-badge&logoColor=white"/>
 
-**Crypto** • **Reverse Eng** • **Pwn**
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/Blockchain-Web3_Security-f97316?style=for-the-badge&logo=ethereum&logoColor=white"/>
-
-**Solidity** • **EVM** • **Smart Contracts**
+**Cryptography**  
+**Reverse Engineering**  
+**Binary Exploitation**
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/Linux-Terminal_Master-3b82f6?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔗_WEB3-Blockchain_Security-f97316?style=for-the-badge&logoColor=white"/>
 
-**Kali** • **WSL** • **Termux**
+**Solidity Auditing**  
+**Smart Contract Dev**  
+**EVM Deep Dive**
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/🐧_LINUX-System_Mastery-3b82f6?style=for-the-badge&logoColor=white"/>
+
+**Kali Linux**  
+**WSL Environment**  
+**Terminal Ninja**
 
 </td>
 </tr>
 </table>
 
-### 💻 LEARNING STACK
-
-```
-[████████████████████] Python        100%
-[████████████████░░░░] Solidity      80%
-[██████████████░░░░░░] PHP           70%
-[█████████████░░░░░░░] JavaScript    65%
-[███████████░░░░░░░░░] Reverse Eng   55%
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%">
-
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%">
+</p>
 
 ---
 
-## 🔗 BLOCKCHAIN JOURNEY
-
 <div align="center">
 
-<table>
-<tr>
-<td width="60%">
+## 🔗 [ BLOCKCHAIN_JOURNEY.LOG ]
 
-### 🎓 SMART CONTRACT MASTERY
+</div>
+
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
+<br>
+
+### 🎓 **SMART CONTRACT MASTERY**
 
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 contract HackerJourney {
-    string public status = "Learning & Hacking";
+    address public hacker = msg.sender;
+    string public status = "Learning & Breaking";
     
-    // Current Focus Areas
-    string[] public vulnerabilities = [
+    // Vulnerability Research Focus
+    string[] public targets = [
         "Reentrancy Attacks",
-        "tx.origin Exploitation",
+        "tx.origin Exploitation", 
         "Delegatecall Bugs",
         "Integer Overflow/Underflow",
-        "Access Control Issues"
+        "Access Control Flaws",
+        "Flash Loan Attacks"
     ];
     
-    function getGoal() public pure returns (string memory) {
-        return "Build & Break Web3 CTF Challenges";
+    function getGoal() public pure 
+    returns (string memory) {
+        return "Build & Break Web3 CTF!";
+    }
+    
+    function hack() public pure {
+        // Ethical hacking only! 
+        require(true, "Stay Legal!");
     }
 }
 ```
 
 </td>
-<td width="40%">
+<td width="45%" valign="top">
 
-<img src="https://media.tenor.com/zcT0SpY2Z6UAAAAd/anime-hacker.gif" width="100%"/>
+<br>
 
-### 📚 PROGRESS LOG
+<p align="center">
+  <img src="https://media.tenor.com/zcT0SpY2Z6UAAAAd/anime-hacker.gif" width="100%" alt="Hacker GIF"/>
+</p>
 
-- ✅ Reentrancy Lab (Basic)
-- ✅ Delegatecall Vulnerabilities
-- 🟡 Building On-chain CTF
-- 🔴 Auto Solver (Python/Web3)
-- 🎯 Target: GEMASTIK Qualifier
+<br>
+
+### 📚 **PROGRESS TRACKER**
+
+<table width="100%">
+<tr><td>✅ Reentrancy Lab</td><td align="right"><b>100%</b></td></tr>
+<tr><td>✅ Delegatecall Vuln</td><td align="right"><b>100%</b></td></tr>
+<tr><td>🟡 On-chain CTF</td><td align="right"><b>65%</b></td></tr>
+<tr><td>🔴 Auto Solver</td><td align="right"><b>40%</b></td></tr>
+<tr><td>🎯 GEMASTIK Prep</td><td align="right"><b>80%</b></td></tr>
+</table>
+
+<br>
+
+### 🎯 **2026 GOALS**
+
+```
+[ ] Qualify for GEMASTIK
+[ ] Deploy 5+ CTF Challenges  
+[ ] Contribute to Web3 Security
+[ ] Master Advanced Cryptography
+```
 
 </td>
 </tr>
 </table>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=18&duration=2500&pause=1000&color=FDE68A&center=true&vCenter=true&width=800&lines=%E2%9C%A8+Web2+security+is+good...;%F0%9F%94%90+Web3+security+is+TRANSPARENT;%F0%9F%9B%A1%EF%B8%8F+Audit+before+deploy();%F0%9F%94%A5+forge+test+--rpc-url+anvil" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=20&duration=2500&pause=1000&color=FDE68A&center=true&vCenter=true&width=800&height=40&lines=%E2%9C%A8+Web2+security+is+good+...+Web3+is+TRANSPARENT;%F0%9F%9B%A1%EF%B8%8F+Always+audit+before+deploy()!;%F0%9F%94%A5+forge+test+--rpc-url+anvil;%F0%9F%92%8E+Build+secure+contracts+%26+break+insecure+ones" alt="Blockchain Quote"/>
+</p>
 
-</div>
-
----
-
-## 📊 SYSTEM STATISTICS
-
-<div align="center">
-
-<!-- GITHUB STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=afrdian&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec7&icon_color=00f7ff&text_color=c9d1d9&rank_icon=github" height="180"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=afrdian&theme=radical&hide_border=true&background=0d1117&ring=ff6ec7&fire=ff6ec7&currStreakLabel=ff6ec7" height="180"/>
-
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=afrdian&theme=high-contrast&bg_color=0d1117&color=ff6ec7&line=00f7ff&point=ffffff&area=true&hide_border=true&custom_title=%E2%9A%A1%20CYBER%20ACTIVITY%20GRAPH%20%E2%9A%A1" width="100%"/>
-
-<!-- LANGUAGE STATS -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrdian&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec7&text_color=c9d1d9" height="180"/>
-
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=%5B+%E2%9C%93+%5D+Commits%3A+Streak+maintained;%5B+%E2%9A%A1+%5D+Mode%3A+Study+%2F+CTF+%2F+Build;%5B+%F0%9F%9A%80+%5D+Next%3A+Deploy+smart+contract+challenge;%5B+%F0%9F%94%A5+%5D+Productivity+buff%3A+ACTIVE" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%">
-
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%">
+</p>
 
 ---
 
-## 🏆 ACHIEVEMENT UNLOCKED
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=afrdian&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=6&title=Commits,Repositories,Stars,Followers,Issues,PullRequest" />
+## 📊 [ SYSTEM_STATS.DB ]
 
 </div>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afrdian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6ec7&icon_color=00f7ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=afrdian&theme=tokyonight&hide_border=true&background=0d1117&ring=ff6ec7&fire=ff6ec7&currStreakLabel=ff6ec7&sideLabels=00f7ff" height="170" alt="Streak Stats"/>
+</p>
 
-## 🌸 AESTHETIC ZONE
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrdian&custom_title=📈%20Contribution%20Graph&bg_color=0d1117&color=ff6ec7&line=00f7ff&point=ffffff&area=true&hide_border=true&height=300" width="95%" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrdian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6ec7&text_color=c9d1d9&langs_count=8" height="170" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=15&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=40&lines=%5B+%E2%9C%93+%5D+Commits%3A+Daily+streak+maintained!;%5B+%E2%9A%A1+%5D+Mode%3A+Study+%2F+CTF+%2F+Build+%2F+Repeat;%5B+%F0%9F%9A%80+%5D+Next%3A+Deploy+smart+contract+CTF+challenge;%5B+%F0%9F%94%A5+%5D+Productivity+buff%3A+PERMANENTLY+ACTIVE!" alt="Status Update"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%">
+</p>
+
+---
 
 <div align="center">
 
-<table>
+## 🏆 [ ACHIEVEMENTS_UNLOCKED.TXT ]
+
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=afrdian&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=6&title=Commits,Repositories,Stars,Followers,Issues,PullRequest" alt="Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="85%">
+</p>
+
+---
+
+<div align="center">
+
+## 🌸 [ AESTHETIC_GALLERY.JPG ]
+
+</div>
+
+<table align="center">
 <tr>
-<td><img src="https://media.tenor.com/AslY3G_tJrMAAAAC/anime-typing.gif" width="250"/></td>
-<td><img src="https://giffiles.alphacoders.com/137/13705.gif" width="250"/></td>
-<td><img src="https://media.tenor.com/zcT0SpY2Z6UAAAAd/anime-hacker.gif" width="250"/></td>
+<td><img src="https://media.tenor.com/AslY3G_tJrMAAAAC/anime-typing.gif" width="260" alt="Typing"/></td>
+<td><img src="https://giffiles.alphacoders.com/137/13705.gif" width="260" alt="Cyber"/></td>
+<td><img src="https://media.tenor.com/zcT0SpY2Z6UAAAAd/anime-hacker.gif" width="260" alt="Hacker"/></td>
 </tr>
 <tr>
-<td><img src="https://i.pinimg.com/originals/7a/e3/46/7ae34630c1a49d386216ede549c93e2c.gif" width="250"/></td>
-<td><img src="https://i.pinimg.com/originals/7b/f9/44/7bf944bd45cc770be94c7463cb5d6ddb.gif" width="250"/></td>
-<td><img src="https://giffiles.alphacoders.com/137/13705.gif" width="250"/></td>
+<td><img src="https://i.pinimg.com/originals/7a/e3/46/7ae34630c1a49d386216ede549c93e2c.gif" width="260" alt="Glitch"/></td>
+<td><img src="https://i.pinimg.com/originals/7b/f9/44/7bf944bd45cc770be94c7463cb5d6ddb.gif" width="260" alt="HUD"/></td>
+<td><img src="https://i.pinimg.com/originals/34/11/06/341106a40f80973648343bf90a6cde9e.gif" width="260" alt="Anime"/></td>
 </tr>
 </table>
 
-<!-- ANIMATED QUOTES -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=900&lines=%E2%9A%A1+CTF+by+day%2C+anime+by+night+%E2%9A%A1;echo+'Semangat+GEMASTIK+2026+AMIN...';sudo+apt+install+inspiration;printf('Next+Year%3A+GEMASTIK+Champion+%3C3');while(hacking)+%7B+solve();+learn();+repeat();+%7D;Building+secure+contracts...+and+breaking+insecure+ones" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=16&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=900&height=60&lines=%E2%9A%A1+CTF+by+day%2C+anime+by+night%2C+code+all+the+time!+%E2%9A%A1;%F0%9F%92%BB+echo+'Semangat+GEMASTIK+2026+AMIN+YA+ALLAH!';%F0%9F%94%A7+sudo+apt+install+motivation+inspiration;%F0%9F%8E%AF+printf('Next+Year%3A+GEMASTIK+Champion+InsyaAllah!');%F0%9F%94%81+while(alive)+%7B+hack()+%7C%7C+learn()+%7C%7C+build();+%7D" alt="Aesthetic Quotes"/>
+</p>
 
-</div>
-
----
-
-## 🌐 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://www.instagram.com/ariqardiann">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-square&logoWidth=30" height="40"/>
-</a>
-<a href="https://www.linkedin.com/in/athalariiq-fildzahhanan-ardian-959790322/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square&logoWidth=30" height="40"/>
-</a>
-<a href="https://x.com/lilroqq?s=11">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white&style=flat-square&logoWidth=30" height="40"/>
-</a>
-
-### 👁️ PROFILE VIEWS
-
-<img src="https://visitcount.itsvg.in/api?id=afrdian&label=VISITORS&color=6&icon=5&pretty=true" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%">
-
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="85%">
+</p>
 
 ---
 
-## 💻 TERMINAL SESSION
-
 <div align="center">
+
+## 💻 [ TERMINAL_SESSION.SH ]
+
+</div>
 
 ```bash
-ariq@cyber-realm:~$ whoami
-athalariiq | CTF Warrior | Blockchain Hacker
+┌──(ariq@cyber-realm)-[~]
+└─$ cat /etc/profile
+═══════════════════════════════════════════════════
+   🎮 CYBER WARRIOR PROFILE v2.0
+═══════════════════════════════════════════════════
 
-ariq@cyber-realm:~$ cat skills.txt
-[✓] Reverse Engineering
-[✓] Cryptography
-[✓] Smart Contract Security
-[✓] Python | PHP | Solidity
+USER: Athalariiq Fildzahhanan Ardian
+ROLE: CTF Player | Blockchain Security Researcher
+HOME: /home/ariq/projects
 
-ariq@cyber-realm:~$ nc ctf.ub.ac.id 31337
-[*] Connecting to CTF server...
-[+] Connection established!
+┌──(ariq@cyber-realm)-[~]
+└─$ ls -la skills/
+total 100
+drwxr-xr-x  5 ariq ariq  4096 Nov  5 2025 .
+-rw-r--r--  1 ariq ariq  9999 Nov  5 2025 reverse_engineering.py
+-rw-r--r--  1 ariq ariq  8888 Nov  5 2025 cryptography.py
+-rw-r--r--  1 ariq ariq  7777 Nov  5 2025 smart_contracts.sol
+-rwxr-xr-x  1 ariq ariq  6666 Nov  5 2025 exploit.sh
 
-ariq@cyber-realm:~$ python3 solve.py
-[*] Exploiting vulnerability...
-[+] FLAG CAPTURED! 🚩
+┌──(ariq@cyber-realm)-[~]
+└─$ python3 solve_ctf.py
+[*] Initializing CTF solver...
+[*] Analyzing challenge...
+[+] Vulnerability found: Buffer Overflow!
+[*] Crafting exploit...
+[+] Exploit successful!
+[+] FLAG{G3M4ST1K_2026_H3R3_W3_C0M3!} 🚩
 
-ariq@cyber-realm:~$ forge create Vault.sol
-[*] Compiling contracts...
-[+] Contract deployed successfully!
+┌──(ariq@cyber-realm)-[~]
+└─$ forge test --rpc-url anvil
+[⠊] Compiling...
+[⠒] Running tests...
+Test result: ok. 10 passed; 0 failed; finished in 2.34s
 
-ariq@cyber-realm:~$ git commit -m "Another day, another exploit"
-[main 42069ff] Another day, another exploit
- 3 files changed, 100 insertions(+)
+┌──(ariq@cyber-realm)-[~]
+└─$ git commit -m "feat: new CTF challenge + exploit"
+[main a1b2c3d] feat: new CTF challenge + exploit
+ 5 files changed, 420 insertions(+), 69 deletions(-)
+ 
+┌──(ariq@cyber-realm)-[~]
+└─$ echo $MOTTO
+"Break it. Build it. Secure it. Repeat."
 
-ariq@cyber-realm:~$ echo "GEMASTIK 2026 HERE I COME!"
-GEMASTIK 2026 HERE I COME! 🎯
+┌──(ariq@cyber-realm)-[~]
+└─$ whoami && date
+athalariiq
+Mission: GEMASTIK 2026 Champion
+Status: Locked In 🔒
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=%3E+Initializing+CTF+framework...;%3E+Loading+exploit+modules...;%3E+Compiling+smart+contracts...;%3E+Status%3A+All+systems+operational+%E2%9C%93;%3E+Ready+to+hack+the+planet+%F0%9F%8C%8D" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=16&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&height=40&lines=%3E+Initializing+hacking+framework...;%3E+Loading+CTF+modules...;%3E+Compiling+smart+contracts...;%3E+All+systems+operational+%E2%9C%93;%3E+Ready+to+dominate+GEMASTIK+2026!+%F0%9F%94%A5" alt="Terminal Loading"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="85%">
+</p>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontAlignY=65&animation=twinkling&fontColor=fff" width="100%"/>
+## 🌐 [ SOCIAL_LINKS.URL ]
 
-### 💭 FINAL THOUGHTS
+</div>
 
-*"Code like an engineer. Think like an attacker. Vibe like an anime protagonist."*
+<p align="center">
+  <a href="https://www.instagram.com/ariqardiann" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/athalariiq-fildzahhanan-ardian-959790322/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/lilroqq?s=11" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" height="35" alt="X"/>
+  </a>
+</p>
+
+<br>
+
+### 👁️ **VISITOR COUNTER**
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=afrdian&label=PROFILE+VIEWS&color=6&icon=5&pretty=true" alt="Visitors"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80%">
+</p>
+
+---
+
+<div align="center">
+
+<!-- PIXEL FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontAlignY=70&animation=fadeIn&fontColor=fff&desc=May%20your%20code%20compile%20and%20your%20exploits%20work!&descSize=14&descAlignY=88" width="100%"/>
+
+<br>
+
+### 💭 **CLOSING STATEMENT**
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║  "Code like an engineer.                                  ║
+║   Think like an attacker.                                 ║
+║   Vibe like an anime protagonist."                        ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
 **⚡ CTF • 🔗 Blockchain • 🌸 Anime • 💻 Cyber Security ⚡**
 
----
+<br>
 
-**🔥 Remember:** `while(alive) { learn(); hack(); repeat(); }`
+### 🔥 **REMEMBER**
+
+```python
+while True:
+    learn()
+    hack()
+    build()
+    repeat()
+    # Never give up! GEMASTIK 2026 🎯
+```
+
+<br>
+
+**🎮 Made with 💖 by Athalariiq**  
+**⭐ Star this profile if you like it!**
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&height=30&lines=%E2%96%B6+GAME+OVER...+PRESS+START+TO+CONTINUE;%E2%96%B6+ACHIEVEMENT+UNLOCKED%3A+PROFILE+VIEWED!;%E2%96%B6+NEXT+LEVEL%3A+GEMASTIK+2026+CHAMPION;%E2%96%B6+STAY+TUNED+FOR+MORE+UPDATES!" alt="Footer Animation"/>
 
 </div>
