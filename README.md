@@ -462,3 +462,5 @@ while True:
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&height=30&lines=%E2%96%B6+GAME+OVER...+PRESS+START+TO+CONTINUE;%E2%96%B6+ACHIEVEMENT+UNLOCKED%3A+PROFILE+VIEWED!;%E2%96%B6+NEXT+LEVEL%3A+GEMASTIK+2026+CHAMPION;%E2%96%B6+STAY+TUNED+FOR+MORE+UPDATES!" alt="Footer Animation"/>
 
 </div>
+
+Dimas 
