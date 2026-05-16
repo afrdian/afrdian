@@ -19,11 +19,8 @@ Most of my time around tech goes into cybersecurity, Capture The Flag challenges
 ## CTF & Security Focus
 
 ```txt
-Web Exploitation   -> Finding logic flaws, injection bugs, and broken assumptions
 Reverse Engineering -> Reading binaries, APKs, and hidden program behavior
 Cryptography       -> Understanding ciphers, attacks, and puzzle-like math
-Forensics          -> Investigating files, memory, packets, and traces
-Pwn / Binary       -> Learning low-level exploitation step by step
 ```
 
 ---
@@ -35,8 +32,6 @@ Pwn / Binary       -> Learning low-level exploitation step by step
 ![C++](https://img.shields.io/badge/C++-111827?style=flat&logo=cplusplus&logoColor=00599C)
 ![Linux](https://img.shields.io/badge/Linux-111827?style=flat&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/Git-111827?style=flat&logo=git&logoColor=F05032)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-111827?style=flat&logo=burpsuite&logoColor=FF6633)
-![Wireshark](https://img.shields.io/badge/Wireshark-111827?style=flat&logo=wireshark&logoColor=1679A7)
 ![Ghidra](https://img.shields.io/badge/Ghidra-111827?style=flat&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=flat&logo=docker&logoColor=2496ED)
 
