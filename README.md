@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Cybersecurity enthusiast | CTF player | Curious builder</b>
+  <b>Cybersecurity enthusiast | CTF player </b>
 </p>
 
 I enjoy learning how systems work, how they break, and how to make them safer.
@@ -20,7 +20,6 @@ Most of my time around tech goes into cybersecurity, Capture The Flag challenges
 ## About Me
 
 ```txt
-whoami
 > Cybersecurity learner with a strong interest in CTF problem solving.
 
 main_focus
