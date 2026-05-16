@@ -1,39 +1,57 @@
-# Hi, I'm AriqArdian
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0D1117,100:1F6FEB&text=AriqArdian&fontColor=F0F6FC&fontSize=42&fontAlignY=35&animation=fadeIn&desc=Cybersecurity%20Enthusiast%20%7C%20CTF%20Player&descAlignY=58&descSize=16" alt="AriqArdian profile banner" />
+</p>
 
-**Cybersecurity enthusiast | CTF player | Curious builder**
+<p align="center">
+  <a href="https://github.com/afrdian">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Cybersecurity+Enthusiast;Capture+The+Flag+Player;Reverse+Engineering+%7C+Cryptography;Learning+one+challenge+at+a+time" alt="Typing SVG" />
+  </a>
+</p>
 
-I enjoy learning how systems work, how they break, and how to make them safer.  
+<p align="center">
+  <b>Cybersecurity enthusiast | CTF player | Curious builder</b>
+</p>
+
+I enjoy learning how systems work, how they break, and how to make them safer.
 Most of my time around tech goes into cybersecurity, Capture The Flag challenges, writeups, and small experiments that help me understand real-world security problems better.
 
 ---
 
 ## About Me
 
-- Interested in **Cyber Security**, especially CTF-style problem solving.
-- Exploring topics like **web exploitation**, **reverse engineering**, **cryptography**, **digital forensics**, and **binary exploitation**.
-- I like documenting what I learn through writeups, notes, and practical projects.
-- Outside tech, I enjoy **Japanese music** and watching **anime**.
+```txt
+whoami
+> Cybersecurity learner with a strong interest in CTF problem solving.
+
+main_focus
+> Reverse Engineering, Cryptography, and practical security research.
+
+outside_the_terminal
+> Japanese music, anime, and stories with strong atmosphere.
+```
 
 ---
 
 ## CTF & Security Focus
 
-```txt
-Reverse Engineering -> Reading binaries, APKs, and hidden program behavior
-Cryptography       -> Understanding ciphers, attacks, and puzzle-like math
-```
+| Area | What I Like Exploring |
+| --- | --- |
+| **Reverse Engineering** | Reading binaries, APKs, hidden logic, and program behavior. |
+| **Cryptography** | Understanding ciphers, attacks, puzzle-like math, and secure thinking. |
 
 ---
 
 ## Tools & Technologies
 
-![Python](https://img.shields.io/badge/Python-111827?style=flat&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-111827?style=flat&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-111827?style=flat&logo=cplusplus&logoColor=00599C)
-![Linux](https://img.shields.io/badge/Linux-111827?style=flat&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-111827?style=flat&logo=git&logoColor=F05032)
-![Ghidra](https://img.shields.io/badge/Ghidra-111827?style=flat&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat&logo=docker&logoColor=2496ED)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Ghidra-111827?style=for-the-badge&logoColor=white" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+</p>
 
 ---
 
@@ -45,7 +63,7 @@ Cryptography       -> Understanding ciphers, attacks, and puzzle-like math
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=afrdian&theme=github-dark-blue&hide_border=true" alt="afrdian GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=afrdian&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="afrdian GitHub streak" />
 </p>
 
 ## Push & Contribution Activity
@@ -58,9 +76,9 @@ Cryptography       -> Understanding ciphers, attacks, and puzzle-like math
 
 ## Current Learning Path
 
-- Building stronger fundamentals in networking, Linux, and secure programming.
-- Practicing CTF challenges to improve analytical thinking and exploit development.
-- Reading writeups to learn different solving styles and security perspectives.
+- Building stronger fundamentals in Linux, low-level behavior, and secure programming.
+- Practicing CTF challenges to improve analytical thinking and reverse engineering flow.
+- Reading writeups to learn different solving styles and cryptography perspectives.
 - Creating notes and projects that turn solved problems into reusable knowledge.
 
 ---
@@ -71,6 +89,10 @@ When I am not solving challenges or debugging code, I usually spend time listeni
 I like how both can bring strong stories, atmosphere, and energy into everyday routines.
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:1F6FEB,100:0D1117" alt="Footer wave" />
+</p>
 
 <p align="center">
   <i>Learning one vulnerability, one challenge, and one commit at a time.</i>
