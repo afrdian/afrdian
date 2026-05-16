@@ -1,4 +1,4 @@
-# Hi, I'm afrdian
+# Hi, I'm AriqArdian
 
 **Cybersecurity enthusiast | CTF player | Curious builder**
 
