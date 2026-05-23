@@ -57,8 +57,8 @@ outside_the_terminal
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PocariKaleng&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="afrdian GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PocariKaleng&layout=compact&theme=github_dark&hide_border=true" alt="afrdian top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PocariKaleng&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="PocariKaleng GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PocariKaleng&layout=compact&theme=github_dark&hide_border=true" alt="PocariKaleng top languages" />
 </p>
 
 <p align="center">
