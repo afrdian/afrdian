@@ -57,18 +57,18 @@ outside_the_terminal
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=afrdian&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="afrdian GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrdian&layout=compact&theme=github_dark&hide_border=true" alt="afrdian top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PocariKaleng&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="afrdian GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PocariKaleng&layout=compact&theme=github_dark&hide_border=true" alt="afrdian top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=afrdian&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="afrdian GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=PocariKaleng&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="afrdian GitHub streak" />
 </p>
 
 ## Push & Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrdian&theme=github-compact&hide_border=true&area=true" alt="afrdian contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PocariKaleng&theme=github-compact&hide_border=true&area=true" alt="afrdian contribution activity graph" />
 </p>
 
 ---
